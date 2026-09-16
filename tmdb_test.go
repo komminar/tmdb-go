@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/komminar/tmdb-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/thulasirajkomminar/tmdb-go"
 )
 
 func TestNew(t *testing.T) {

@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/komminar/tmdb-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/thulasirajkomminar/tmdb-go"
 )
 
 // retryConfigFast is a low-latency retry policy shared across the table

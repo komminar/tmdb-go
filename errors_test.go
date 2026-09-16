@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/komminar/tmdb-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/thulasirajkomminar/tmdb-go"
 )
 
 // fakeResp lets the table cases construct a minimal value satisfying

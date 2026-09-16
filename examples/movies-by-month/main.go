@@ -16,8 +16,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/thulasirajkomminar/tmdb-go"
-	"github.com/thulasirajkomminar/tmdb-go/discover"
+	"github.com/komminar/tmdb-go"
+	"github.com/komminar/tmdb-go/discover"
 )
 
 func main() {
